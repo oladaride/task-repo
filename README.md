@@ -1,5 +1,8 @@
 **Deploying Nginx on AWS EC2 with GitHub Actions and Docker**
 
+This repository demonstrates automated deployment of an Nginx web server on AWS EC2 using Terraform, Docker, and GitHub Actions. All steps are documented below, and screenshots are included to verify successful deployment.
+
+
 1. Using Terraform, launched a T3 Micro instance with an Amazon Linux image
 
 
