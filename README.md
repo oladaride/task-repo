@@ -92,12 +92,12 @@ jobs:
 ```
 
 
-<img width="1366" height="768" alt="Screenshot (1723)" src="https://github.com/user-attachments/assets/eba0fc89-7b1c-4206-8290-edd128db113e" />
-<img width="1366" height="768" alt="Screenshot (1722)" src="https://github.com/user-attachments/assets/e235f3e2-1ef4-4a0d-966b-f9bb6d6ebd94" />
-<img width="1366" height="768" alt="Screenshot (1721)" src="https://github.com/user-attachments/assets/f81dcd9a-6661-49a0-9479-6d04aaf0cbe5" />
-<img width="1366" height="768" alt="Screenshot (1720)" src="https://github.com/user-attachments/assets/7dd1d433-068c-4647-ba1b-769c6381a974" />
-<img width="1366" height="768" alt="Screenshot (1719)" src="https://github.com/user-attachments/assets/ea1faace-821e-43b9-8ba5-8951d1907b4e" />
-<img width="1366" height="768" alt="Screenshot (1718)" src="https://github.com/user-attachments/assets/f8391019-f486-4fdf-8b85-bda322d2634a" />
-<img width="1366" height="768" alt="Screenshot (1716)" src="https://github.com/user-attachments/assets/c0b318a2-5b80-4890-b6e3-3eed7e9d24ed" />
-<img width="1366" height="768" alt="Screenshot (1715)" src="https://github.com/user-attachments/assets/aec5cc0c-0447-4b30-8802-2fcb24fadb5f" />
-<img width="1366" height="768" alt="Screenshot (1710)" src="https://github.com/user-attachments/assets/266b4756-9f27-4af3-9d9c-5f08526aab4d" />
+
+<img width="1366" height="768" alt="Screenshot (1726)" src="https://github.com/user-attachments/assets/6bdf07b7-dad6-4b76-b2a0-b6f6849ca789" />
+<img width="1366" height="768" alt="Screenshot (1725)" src="https://github.com/user-attachments/assets/cf2e9de7-123f-4031-951d-51340efe7e35" />
+<img width="1366" height="699" alt="Screenshot (1724)" src="https://github.com/user-attachments/assets/81e37150-86f5-49a6-8fc2-8a76bf6ee3c6" />
+<img width="1366" height="768" alt="Screenshot (1715)" src="https://github.com/user-attachments/assets/22563c02-1864-4297-b698-9ec3c6f827c8" />
+<img width="1366" height="768" alt="Screenshot (1710)" src="https://github.com/user-attachments/assets/0b6bd339-9c6d-4ebc-bc6f-8191bee467c1" />
+<img width="1366" height="768" alt="Screenshot (1716)" src="https://github.com/user-attachments/assets/8319264b-c3a3-4b0c-a68e-d2a28281c19c" />
+<img width="1366" height="768" alt="Screenshot (1718)" src="https://github.com/user-attachments/assets/40bffb13-e367-4a1d-87d2-f0042925d654" />
+<img width="1366" height="768" alt="Screenshot (1723)" src="https://github.com/user-attachments/assets/b8554743-7052-45b8-a451-6301e7500fd5" />
